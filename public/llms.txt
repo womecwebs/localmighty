@@ -1,0 +1,6 @@
+# localmighty.netlify.app llms.txt
+
+> Assist small businesses and large businesses in optimizing their online presence for AI-driven local search and search engine visibility through structured data, content strategies, and technical enhancements.
+
+- [AI Local Search Optimization](https://localmighty.netlify.app): Promote AI search optimization services for local businesses to improve visibility in AI-driven search engines.
+

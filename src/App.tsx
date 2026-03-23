@@ -823,13 +823,13 @@ const Footer = () => (
           </h4>
           <ul className="space-y-2 text-xs text-slate-500">
             <li>
-              <a href="#" className="hover:text-cyan-400">
+              <a href="/privacy.html" className="hover:text-cyan-400">
                 Privacy Policy
               </a>
             </li>
             <li>
-              <a href="#" className="hover:text-cyan-400">
-                Terms of Service
+              <a href="/about.html" className="hover:text-cyan-400">
+                About
               </a>
             </li>
           </ul>

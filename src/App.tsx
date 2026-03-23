@@ -567,7 +567,7 @@ const Pricing = () => (
               key={i}
               className="flex items-center gap-3 text-sm text-slate-300"
             >
-              <CheckCircle2 className="w-5 h-5 text-cyan-500 flex-shrink-0" />
+              <CheckCircle2 className="w-5 h-5 text-cyan-500 shrink-0" />
               {item}
             </li>
           ))}
